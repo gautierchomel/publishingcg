@@ -5,7 +5,7 @@ date: 2025-01-30
 
 The fixed layout accessibility taskforce incubated in the Publishing CG and is now a joint work of the Publishing CG and Maintenance WG. 
 
-Two editor's drafts are currently being developped from the epub33 repo.
+Two editor's drafts are currently being developed from the epub33 repo.
 
 * [EPUB Accessibility - Fixed Layout Challenges and Best Practices](https://w3c.github.io/epub-specs/epub33/fxl-a11y/). Sources at GitHub: https://github.com/w3c/epub-specs/blob/main/epub33/fxl-a11y/index.html
 * [EPUB Accessibility - Fixed Layout Techniques](https://w3c.github.io/epub-specs/epub33/fxl-a11y-tech/)
